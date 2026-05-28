@@ -85,7 +85,7 @@ The internal architecture and orchestration pipeline are proprietary.
 * Multi-domain extensibility
 
 ---
-## Contact: cvijetic.danijel@gmail.com
+## Contact: cvijetic.danijel@gmail.com | https://www.linkedin.com/in/danijel-cvijetic/ | https://huggingface.co/Danijel1133/DanyAI-9b-Uncensored
 ---
 ## Status
 
