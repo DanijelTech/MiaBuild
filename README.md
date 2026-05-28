@@ -85,7 +85,7 @@ The internal architecture and orchestration pipeline are proprietary.
 * Multi-domain extensibility
 
 ---
-## vContact: cvijetic.danijel@gmail.com
+## Contact: cvijetic.danijel@gmail.com
 ---
 ## Status
 
