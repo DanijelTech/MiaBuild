@@ -85,7 +85,8 @@ The internal architecture and orchestration pipeline are proprietary.
 * Multi-domain extensibility
 
 ---
-
+## vContact: cvijetic.danijel@gmail.com
+---
 ## Status
 
 MiaBuild is currently under active development and internal industrial validation.
